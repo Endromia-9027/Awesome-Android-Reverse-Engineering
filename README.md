@@ -144,7 +144,7 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 - [A Reverse Engineer’s Post-mortem Of The Houseparty Video Chat App](https://www.jamesstevenson.me/a-reverse-engineers-post-mortem-of-the-houseparty-video-chat-app/)
 - [SharkBot: a “new” generation Android banking Trojan being distributed on Google Play Store](https://research.nccgroup.com/2022/03/03/sharkbot-a-new-generation-android-banking-trojan-being-distributed-on-google-play-store/)
 - [In-the-Wild Series: Android Exploits](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-android-exploits.html)
-- [Bypassing hardened Android applications](https://www.claranet.com/uk/blog/bypassing-hardened-android-applications/)
+- [Bypassing hardened Android applications ](https://www.claranet.com/uk/blog/bypassing-hardened-android-applications/)
 
 ## CTFs and CrackMes
 - [☆ UnCrackable Mobile Apps](https://github.com/OWASP/owasp-mastg/tree/master/Crackmes) - OWASP Android app CrackMes.
